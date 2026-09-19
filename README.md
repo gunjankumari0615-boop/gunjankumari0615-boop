@@ -25,7 +25,6 @@ and create engaging, responsive and user-friendly websites.
 - CSS
 - JavaScript
 - Responsive Web Design
-- UI Design
 - Website Layout & Styling
 
 ---
@@ -33,10 +32,12 @@ and create engaging, responsive and user-friendly websites.
 ## 📚 Education
 
 ### Bachelor of Arts – English Honours
-**[Your College/University Name]**
+**[School of Open Learning (SOL),University of Delhi]**
+**Currently Pursuing**
 
 ### Web Designing Course
-**[Institute Name]**
+**[IFDA Institute, Delhi]**
+**Completed**
 
 ---
 
@@ -46,12 +47,12 @@ and create engaging, responsive and user-friendly websites.
 - Responsive Website Designs
 - Landing Page Designs
 - Personal Portfolio Website
-- Practice UI/Website Projects
+- Practice Website Projects
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [https://www.linkedin.com/in/gunjan-kumari15/]
 - 🌐 Portfolio: [Your Portfolio Link]
-- 📧 Email: [Your Email]
+- 📧 Email: [gunjankumari0615@gmail.com]
